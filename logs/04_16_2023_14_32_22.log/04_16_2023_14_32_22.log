@@ -1,0 +1,7 @@
+[ 2023-04-16 14:32:23,619 ] 122 werkzeug - INFO -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+[ 2023-04-16 14:33:23,398 ] 122 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:33:23] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 14:33:23,441 ] 122 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:33:23] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2023-04-16 14:33:23,454 ] 122 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:33:23] "GET /static//Image/your_profile_pic.jpg HTTP/1.1" 404 -
+[ 2023-04-16 14:33:23,707 ] 122 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:33:23] "GET /favicon.ico HTTP/1.1" 404 -
+[ 2023-04-16 14:33:23,736 ] 122 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:33:23] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+[ 2023-04-16 14:33:23,739 ] 122 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:33:23] "GET /apple-touch-icon.png HTTP/1.1" 404 -

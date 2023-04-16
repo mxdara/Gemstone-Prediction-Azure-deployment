@@ -1,0 +1,8 @@
+[ 2023-04-16 14:52:15,915 ] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.2.16:8000
+[ 2023-04-16 14:52:15,915 ] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-04-16 14:52:34,276 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:52:34] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 14:52:34,321 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:52:34] "[32mGET /static//Image/your_profile_pic.jpg HTTP/1.1[0m" 308 -
+[ 2023-04-16 14:52:34,372 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:52:34] "GET /static/Image/your_profile_pic.jpg HTTP/1.1" 200 -
