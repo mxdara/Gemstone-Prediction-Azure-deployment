@@ -6,3 +6,12 @@
 [ 2023-04-16 14:52:34,276 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:52:34] "GET / HTTP/1.1" 200 -
 [ 2023-04-16 14:52:34,321 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:52:34] "[32mGET /static//Image/your_profile_pic.jpg HTTP/1.1[0m" 308 -
 [ 2023-04-16 14:52:34,372 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:52:34] "GET /static/Image/your_profile_pic.jpg HTTP/1.1" 200 -
+[ 2023-04-16 15:07:11,469 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:07:11] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 15:07:11,566 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:07:11] "[32mGET /static//Image/your_profile_pic.jpg HTTP/1.1[0m" 308 -
+[ 2023-04-16 15:07:11,618 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:07:11] "GET /static/Image/your_profile_pic.jpg HTTP/1.1" 200 -
+[ 2023-04-16 15:09:49,095 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:09:49] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 15:09:49,146 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:09:49] "[32mGET /static//Image/your_profile_pic.jpg HTTP/1.1[0m" 308 -
+[ 2023-04-16 15:09:49,208 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:09:49] "GET /static/Image/your_profile_pic.jpg HTTP/1.1" 200 -
+[ 2023-04-16 15:10:36,218 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:10:36] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 15:10:36,243 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:10:36] "[32mGET /static//Image/your_profile_pic.jpg HTTP/1.1[0m" 308 -
+[ 2023-04-16 15:10:36,292 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 15:10:36] "GET /static/Image/your_profile_pic.jpg HTTP/1.1" 200 -

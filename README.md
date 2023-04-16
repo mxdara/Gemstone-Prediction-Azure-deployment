@@ -20,7 +20,7 @@ There are 10 independent variables (including `id`):
 Target variable:
 * `price`: Price of the given Diamond.
 
-[[Dataset Source Link]](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+[Dataset Source Link](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
 
 
 # AWS Deployment Link :
