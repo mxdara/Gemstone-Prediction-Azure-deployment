@@ -25,7 +25,14 @@ Target variable:
 
 # AWS Deployment Link :
 
-[AWS Elastic Beanstalk link ](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
+[AWS Elastic Beanstalk link ](http://gemstonepriceprediction-env.eba-yhsmbywx.us-east-1.elasticbeanstalk.com)
+
+![](static/Image/gemstone%20prediction%20elastic%20beanstalk%20deployment.png)
+
+# Azure Deployment Link :
+[Azure Deployment link ](https://gempricepred.azurewebsites.net)
+
+![Azure deployment link](static/Image/gemstone%20prediction%20azure%20deployment.png)
 
 # Screenshot of UI
 
